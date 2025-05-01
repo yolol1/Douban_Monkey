@@ -18,7 +18,12 @@
 
   // Your code here...
   const vistopiaCSS = `
-  body {
+  html[class] {
+  color: #258dcd;
+  background: #252526;
+}
+
+body {
   line-height: 2 !important;
 }
 

@@ -2220,6 +2220,10 @@ wbr:after {
   word-wrap: break-word;
   overflow: hidden;
   padding: 20px 0 0;
+
+  .comment-item .comment {
+    line-height: 2;
+  }
 }
 
 #divac {
